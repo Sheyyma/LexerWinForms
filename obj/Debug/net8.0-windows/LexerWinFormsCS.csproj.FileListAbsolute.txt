@@ -1,0 +1,17 @@
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.Form1.resources
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.csproj.GenerateResource.cache
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.AssemblyInfoInputs.cache
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.AssemblyInfo.cs
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.csproj.CoreCompileInputs.cache
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\LexerWinFormsCS.exe
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\LexerWinFormsCS.deps.json
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\LexerWinFormsCS.runtimeconfig.json
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\LexerWinFormsCS.dll
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\LexerWinFormsCS.pdb
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.dll
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\refint\LexerWinFormsCS.dll
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.pdb
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\LexerWinFormsCS.genruntimeconfig.cache
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\obj\Debug\net8.0-windows\ref\LexerWinFormsCS.dll
+C:\Users\Shey\source\repos\LexerWinFormsCS\LexerWinFormsCS\bin\Debug\net8.0-windows\keywords.csv
